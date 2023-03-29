@@ -1,1 +1,1 @@
-https://victorionov.github.io/react-poeple-table/
+- [DEMO LINK](https://victorionov.github.io/react-poeple-table/)
