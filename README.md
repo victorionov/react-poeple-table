@@ -1,1 +1,1 @@
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+https://victorionov.github.io/react-poeple-table/
